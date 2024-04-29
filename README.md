@@ -54,3 +54,5 @@ Lambda can process streaming data from IoT devices, social media, or other sourc
 
 #### API Backends:
 Develop scalable API backends for web and mobile applications using Lambda. It automatically handles the incoming API requests and executes the corresponding functions.
+
+C:\Users\madhu\OneDrive\Pictures\Screenshots\Screenshot 2024-04-17 231149.png
